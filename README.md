@@ -3,6 +3,6 @@
 📖 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚆𝚊𝚒𝚔𝚊𝚝𝚘 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢.  
 
 
-![Metrics](https://metrics.lecoq.io/riellymoore?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Pacific%2FAuckland)  
+![Metrics](https://metrics.lecoq.io/riellymoore?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Pacific%2FAuckland)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,typescript,js,angular,cpp,csharp,vscode)](https://skillicons.dev)
